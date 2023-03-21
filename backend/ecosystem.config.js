@@ -8,8 +8,6 @@ const {
   DEPLOY_REPO,
 } = process.env;
 
-console.log(DEPLOY_USER);
-
 module.exports = {
   apps: [
     {
