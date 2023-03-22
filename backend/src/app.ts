@@ -13,7 +13,9 @@ const { PORT = 3000 } = process.env;
 const app = express();
 mongoose.connect(DB_ADDRESS);
 
-app.use(cors({ origin: "vladislav-front.students.nomoredomains.work" }));
+app.use(
+  cors({ origin: "https://vladislav-front.students.nomoredomains.work" })
+);
 app.use;
 app.use(express.json());
 app.use(express.urlencoded({ extended: true }));
