@@ -1,5 +1,6 @@
 # Деплой приложения на сервер с использованием pm2
 
 ip: 84.201.143.15
-</br>frontend: https://vladislav-front.students.nomoredomains.work/
-</br>backend: https://vladislav-back.students.nomoredomains.work/
+</br>Frontend: https://vladislav-front.students.nomoredomains.work/
+</br>Backend: https://vladislav-back.students.nomoredomains.work/
+</br>Репозиторий: https://github.com/Shiker2032/web-plus-pm2-deploy
