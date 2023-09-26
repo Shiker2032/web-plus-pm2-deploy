@@ -1,6 +1,4 @@
 # Деплой приложения на сервер с использованием pm2
+Доступен только код, хостинг предоставлялся на время обучения и на данный момент у меня нету возможности оплачивать новый хостинг ради демонстрации одного проекта.
 
-ip: 84.201.143.15
-</br>Frontend: https://vladislav-front.students.nomoredomains.work/
-</br>Backend: https://vladislav-back.students.nomoredomains.work/
-</br>Репозиторий: https://github.com/Shiker2032/web-plus-pm2-deploy
+
